@@ -1,6 +1,6 @@
 # PicoDaisy
 
- Sewable Flower Shaped Rp2040 Dev Board
+ Sewable Flower Shaped RP2040 Dev Board
  
    Documents include:
       Altium Design Files 
